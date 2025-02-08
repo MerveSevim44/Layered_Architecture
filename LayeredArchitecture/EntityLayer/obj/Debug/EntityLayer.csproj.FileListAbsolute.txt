@@ -1,0 +1,8 @@
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.Form1.resources
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.csproj.GenerateResource.cache
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\merve\source\repos\LayeredArchitecture\EntityLayer\obj\Debug\EntityLayer.pdb
