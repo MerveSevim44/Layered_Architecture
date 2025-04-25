@@ -1,17 +1,4 @@
-<ul data-start="592" data-end="1066">
-<li data-start="592" data-end="714" class="" style="">
-<p data-start="594" data-end="714" class=""><strong data-start="594" data-end="623">Veri Erişim Katmanı (DAL)</strong>: Tüm veritabanı işlemleri ve verilerin veritabanından alınması işlemlerini gerçekleştirir.</p>
-</li>
-<li data-start="715" data-end="823" class="" style="">
-<p data-start="717" data-end="823" class=""><strong data-start="717" data-end="750">Varlık Katmanı (Entity Layer)</strong>: Veri nesnelerini ve iş mantığını temsil eden varlık sınıflarını içerir.</p>
-</li>
-<li data-start="824" data-end="947" class="" style="">
-<p data-start="826" data-end="947" class=""><strong data-start="826" data-end="857">İşlem Katmanı (Logic Layer)</strong>: İşlem mantığını kapsar ve Varlık Katmanı ile Veri Erişim Katmanı arasında aracılık eder.</p>
-</li>
-<li data-start="948" data-end="1066" class="" style="">
-<p data-start="950" data-end="1066" class=""><strong data-start="950" data-end="988">Sunum Katmanı (Presentation Layer)</strong>: Kullanıcı ile etkileşime girilen grafiksel kullanıcı arayüzünü (GUI) sağlar.</p>
-</li>
-</ul><h1 data-start="101" data-end="130" class="">Katmanlı Mimari Projesi 🏗️</h1>
+<h1 data-start="101" data-end="130" class="">Katmanlı Mimari Projesi 🏗️</h1>
 <p data-start="132" data-end="574" class=""><strong data-start="132" data-end="151">Katmanlı Mimari</strong> projesi, yazılım geliştirmede çok katmanlı mimari desenini (layered architecture) göstermeyi amaçlayan bir projedir. Bu proje, <strong data-start="279" data-end="308">Veri Erişim Katmanı (DAL)</strong>, <strong data-start="310" data-end="343">Varlık Katmanı (Entity Layer)</strong>, <strong data-start="345" data-end="376">İşlem Katmanı (Logic Layer)</strong> ve <strong data-start="380" data-end="418">Sunum Katmanı (Presentation Layer)</strong> olmak üzere dört farklı katmandan oluşmaktadır. Her bir katman,
   kendi sorumluluğuna sahiptir ve diğer katmanlarla düzenli ve modüler bir şekilde etkileşir.</p>
   <h2 data-start="576" data-end="591" class="">Özellikler ✨</h2>
